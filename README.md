@@ -18,7 +18,6 @@
   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">What I don't like</h3>
   <ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
     <li>Spiders 🕷️ <img src="https://imgur.com/3aEIody.gif" alt="Spiders GIF" style="width: 100px; height: 100px;"/></li>
-    <li>Die all 💀</li>
   </ul>
 
   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Games I Love</h3>
@@ -27,6 +26,7 @@
   </ul>
 </div>
 
+<hr />
 
 <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">Contact me</h3>
 <a href="https://t.me/yakiecho">
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
+<hr />
 
 <h3 style="font-family: 'Courier New', Courier, monospace; color: #34495e;">I mainly write:</h3>
 <ul style="font-family: 'Verdana', sans-serif; color: #2c3e50;">
@@ -48,10 +49,13 @@
   <li><strong>Arma 3 SQF</strong>: Android</li>
 </ul>
 
+<hr />
 
 <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Thank you for coming here!</h3>
 <p style="text-align: center;">
   <img src="https://i.imgur.com/G1Wn3sk.webp?tb" alt="Thank you GIF" style="width: 300px; height: auto;"/>
 </p>
+
+<hr />
 
 <img src="https://github-readme-stats.vercel.app/api?username=yakiecho&show_icons=true&hide_title=true" alt="GitHub stats" />
