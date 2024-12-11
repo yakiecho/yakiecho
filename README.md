@@ -5,23 +5,31 @@
 <h2 style="font-family: 'Georgia', serif; color: #2c3e50;">About me</h2>
 
 <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Hobbies</h3>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Reading </p>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Watching films</p>
+<ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
+  <li>Reading 📖</li>
+  <li>Watching films 🎥</li>
+</ul>
 
 <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">What I love</h3>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Coding 💻</p>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Games 🎮</p>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Silence 🤫</p>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Music 🎶</p>
+<ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
+  <li>Coding 💻</li>
+  <li>Games 🎮</li>
+  <li>Silence 🤫</li>
+  <li>Music 🎶</li>
+</ul>
 
 <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">What I don't like</h3>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Spiders 🕷️ (Die all 💀)<img src="https://imgur.com/3aEIody.gif" alt="Spiders GIF" style="width: 20px; height: 20px;"/> : Creepy crawlers</p>
+<ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
+  <li>Spiders 🕷️ (Die all 💀)<img src="https://imgur.com/3aEIody.gif" alt="Spiders GIF" style="width: 20px; height: 20px;"/></li>
+</ul>
 
 <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Games I Love</h3>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Arma 3 🎮</p>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Minecraft 🧱</p>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">Stormworks 🚢</p>
-<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">RimWorld 🌍</p>
+<ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
+  <li>Arma 3 🎮</li>
+  <li>Minecraft 🧱</li>
+  <li>Stormworks 🚢</li>
+  <li>RimWorld 🌍</li>
+</ul>
 
 
 <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">Contact me</h3>
