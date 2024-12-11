@@ -20,7 +20,7 @@
 
 <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">What I don't like</h3>
 <ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
-  <li>Spiders 🕷️ (Die all 💀)<img src="https://imgur.com/3aEIody.gif" alt="Spiders GIF" style="width: 20px; height: 20px;"/></li>
+  <li>Spiders 🕷️<img src="https://imgur.com/3aEIody.gif" alt="Spiders GIF" style="width: 100px; height: 100px;"/></li>
 </ul>
 
 <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Games I Love</h3>
@@ -52,5 +52,9 @@
   <li><strong>Arma 3 SQF</strong>: Android</li>
 </ul>
 
+
+<p style="text-align: center;">
+  <img src="https://imgur.com/4Dr7P4q.gif" alt="Gif" />
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yakiecho&show_icons=true&hide_title=true" alt="GitHub stats" />
