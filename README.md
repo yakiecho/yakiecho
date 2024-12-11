@@ -1,3 +1,12 @@
+<div style="position: relative; display: inline-block;">
+  <img src="https://i.pinimg.com/originals/43/3a/88/433a885903b5e6b6b9b5edf681169882.gif" alt="tree blossom right" style="width: 600px; height: 500px; transform: scaleX(-1);"/>
+</div>
+
+<div style="position: relative; display: inline-block;">
+  <img src="https://i.pinimg.com/originals/43/3a/88/433a885903b5e6b6b9b5edf681169882.gif" alt="tree blossom left" style="width: 600px; height: 500px;"/>
+</div>
+
+
 
 <h1 style="font-family: 'Courier New', Courier, monospace; color: #333;">Domo domo, i'm yakiecho, also Ja!</span> 👋</h1>
 
@@ -87,22 +96,22 @@
 <div style="margin: 20px auto; padding: 20px; border: 1px solid #2c3e50; border-radius: 10px; background-color: #dcfff3; max-width: 600px;">
   <h3 style="font-family: 'Arial', sans-serif; color: #34495e; text-align: center;">Contact me📞</h3>
   <div style="text-align: center;">
-    <a href="https://t.me/yakiecho">
-      <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="https://discord.com/users/424671525288017921">
-      <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-    <a href="mailto:yakimichiecho@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://twitter.com/yakiecho">
-      <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-    </a>
-    <a href="https://steamcommunity.com/id/yakiecho/">
-      <img src="https://img.shields.io/badge/Steam-5661F2?style=for-the-badge&logo=x&logoColor=white" alt="Steam" />
-    </a>
-  </div>
+  <a href="https://t.me/yakiecho" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discord.com/users/424671525288017921" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:yakimichiecho@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/yakiecho" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://steamcommunity.com/id/yakiecho/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Steam-5661F2?style=for-the-badge&logo=x&logoColor=white" alt="Steam" />
+  </a>
+</div>
 </div>
 
 
