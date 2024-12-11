@@ -6,13 +6,13 @@
   <li><strong>Python</strong>: Scripts, bots, client-server apps</li>
   <li><strong>C#</strong>: Unity game's reverse coding</li>
   <li><strong>Kotlin</strong>: Android</li>
-  <li><strong>Arma 3 SQF</strong>: Android</li>
+  <li><strong>Arma 3 SQF</strong></li>
 </ul>
 
 <h2 style="font-family: 'Georgia', serif; color: #2c3e50;">About me</h2>
 
 <p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
-  I am a developer from the Republic of Belarus, I love to: mess around, listen to music, Suisei-sama <img src="https://i.imgur.com/k6DRdGH_d.webp?maxwidth=760&fidelity=grand" alt="Suisei-sama", style="width: 30px; height: auto; text-align: center;"/>, write cheats, bots and generally all sorts of nonsense.
+  I am a developer from the Republic of Belarus, I love: to mess around, listen music, Suisei-sama <img src="https://i.imgur.com/k6DRdGH_d.webp?maxwidth=760&fidelity=grand" alt="Suisei-sama", style="width: 30px; height: auto; text-align: center;"/>, write cheats, bots and generally all sorts of nonsense.
 </p>
 
 
