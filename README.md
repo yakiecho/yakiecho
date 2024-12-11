@@ -29,7 +29,7 @@
 
    <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Whose music do I like</h3>
   <ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
-    <li>Suisei-sama🎤☄️, HimeHina🩷💛, Ado🔊🫨, Sennzai🤍, Marine Senchou❤️🏴‍☠️, Reol, Raon, Kiwawa🍗, ELFENSJóN⛓️😈 and more more...</li>
+    <li>Suisei-sama🎤☄️, HimeHina🩷💛, Ado🔊🫨, Sennzai🤍, Marine Senchou❤️🏴‍☠️, Reol💛👱‍♀️, Raon❤️, Kiwawa🍗, ELFENSJóN⛓️😈 and more more...</li>
   </ul>
 
   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">What I don't like</h3>
