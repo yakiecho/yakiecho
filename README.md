@@ -1,8 +1,20 @@
 
-<h1 style="font-family: 'Courier New', Courier, monospace; color: #333;">Dooomo, i'm yakiecho,<span style="color: #ff6347;">also Ja!</span> 👋</h1>
+<h1 style="font-family: 'Courier New', Courier, monospace; color: #333;">Dooomo dooomo, i'm yakiecho, also Ja!</span> 👋</h1>
 
+<h3 style="font-family: 'Courier New', Courier, monospace; color: #34495e;">I mainly write:</h3>
+<ul style="font-family: 'Verdana', sans-serif; color: #2c3e50;">
+  <li><strong>Python</strong>: Scripts, bots, client-server apps</li>
+  <li><strong>C#</strong>: Unity game's reverse coding</li>
+  <li><strong>Kotlin</strong>: Android</li>
+  <li><strong>Arma 3 SQF</strong>: Android</li>
+</ul>
 
 <h2 style="font-family: 'Georgia', serif; color: #2c3e50;">About me</h2>
+
+<p style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
+  I am a developer from the Republic of Belarus, I love to: mess around, listen to music, Suisei-sama <img src="https://i.imgur.com/k6DRdGH_d.webp?maxwidth=760&fidelity=grand" alt="Suisei-sama", style="width: 30px; height: auto; text-align: center;"/>, write cheats, bots and generally all sorts of nonsense.
+</p>
+
 
 <div style="border: 2px solid #ddd; background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Hobbies</h3>
@@ -13,6 +25,11 @@
   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">What I love</h3>
   <ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
     <li>Coding 💻, Games 🎮, Silence 🤫, Music 🎶</li>
+  </ul>
+
+   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Whose music do I like</h3>
+  <ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
+    <li>Suisei-sama🎤☄️, HimeHina🩷💛, Ado🔊🫨, Sennzai🤍, Marine Senchou❤️🏴‍☠️, Reol, Raon, Kiwawa🍗, ELFENSJóN⛓️😈 and more more...</li>
   </ul>
 
   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">What I don't like</h3>
@@ -26,6 +43,7 @@
   </ul>
 </div>
 
+
 <hr />
 
 <h3 style="font-family: 'Arial', sans-serif; color: #34495e;">Contact me</h3>
@@ -38,16 +56,6 @@
 <a href="mailto:yakimichiecho@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
-<hr />
-
-<h3 style="font-family: 'Courier New', Courier, monospace; color: #34495e;">I mainly write:</h3>
-<ul style="font-family: 'Verdana', sans-serif; color: #2c3e50;">
-  <li><strong>Python</strong>: Scripts, bots, client-server apps</li>
-  <li><strong>C#</strong>: Unity game's reverse coding</li>
-  <li><strong>Kotlin</strong>: Android</li>
-  <li><strong>Arma 3 SQF</strong>: Android</li>
-</ul>
 
 <hr />
 
