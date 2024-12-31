@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" style="width: 30px; height: 30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" style="width: 30px; height: 30px;"/>
   <img src="https://www.elexence.fr/images/Distributeur10/Composants/SOFUbuntu_20-04LTS_64_1z.png" alt="Ubuntu" title="Ubuntu" style="width: 40px; height: auto;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuij4rKmNu0k75foMjBSMmfB8RdYaX2hh6JVdprVGqIh8GYd510ybk62nvhxB_YcACQsA&usqp=CAU" alt="GPG" title="GPG" style="width: 30px; height: 30px;"/>
+  <img src="https://avatars.githubusercontent.com/u/434715?s=280&v=4" alt="GPG" title="GPG" style="width: 30px; height: 30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" style="width: 30px; height: 30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" style="width: 30px; height: 30px;"/>
   <img src="https://www.fileeagle.com/data/2022/05/dotPeek.png" alt="dotPeek" title="dotPeek" style="width: 30px; height: 30px;"/>
