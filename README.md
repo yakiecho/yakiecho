@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" style="width: 30px; height: 30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" style="width: 30px; height: 30px;"/>
   <img src="https://www.fileeagle.com/data/2022/05/dotPeek.png" alt="dotPeek" title="dotPeek" style="width: 30px; height: 30px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8fbwusxe4WMoRjHlWi_5QYN5VlDqZmwXDgQ&s" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="width: 30px; height: 30px;"/>
+  <img src="https://www.helenjoscott.com/wp-content/uploads/2020/09/1200px-IntelliJ_IDEA_Logo.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" style="width: 30px; height: 30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" style="width: 30px; height: 30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" title="Visual Studio" style="width: 30px; height: 30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" style="width: 30px; height: 30px;"/>
