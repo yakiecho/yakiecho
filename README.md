@@ -1,5 +1,5 @@
 <div style="position: relative; display: inline-block;">
-  <img src="https://i.imgur.com/7LJoOn5.gif" alt="tree blossom left" style="width: 300px; height: 200px;"/>
+  <img src="cherry_tree_mirror.gif" alt="tree blossom left" style="width: 300px; height: 200px;"/>
   <img src="https://i.pinimg.com/originals/43/3a/88/433a885903b5e6b6b9b5edf681169882.gif" alt="tree blossom right" style="width: 300px; height: 200px;"/>
 </div>
 
