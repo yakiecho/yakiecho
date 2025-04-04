@@ -60,10 +60,6 @@
 
 
 <div style="border: 2px solid #ddd; background-color: #dcfff3; padding: 20px; border-radius: 10px;">
-  <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Hobbies</h3>
-  <ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
-    <li>Reading 📖, Watching films 🎥</li>
-  </ul>
 
   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">What I love</h3>
   <ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
@@ -72,12 +68,12 @@
 
    <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Whose music do I like</h3>
   <ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
-    <li>Suisei-sama🎤☄️, HimeHina🩷💛, Ado🔊🫨, Sennzai🤍, Marine Senchou❤️🏴‍☠️, Reol💛👱‍♀️, Raon❤️, Kiwawa🍗, ELFENSJóN⛓️😈 and more more...</li>
+    <li>Suisei-sama🎤☄️, HimeHina🩷💛, Ado🔊🫨, Sennzai🤍, Marine Senchou❤️🏴‍☠️, Reol💛👱‍♀️, Raon❤️, Kiwawa🍗, ELFENSJóN⛓️😈, Bae🐀, Sennzai💙❤️, Moona🌑💜 and more more...</li>
   </ul>
 
   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">What I don't like</h3>
   <ul style="font-family: 'Verdana', sans-serif; color: #34495e; text-align: center;">
-    <li>Spiders 🕷️ <img src="https://imgur.com/3aEIody.gif" alt="Spiders GIF" style="width: 100px; height: 100px;"/></li>
+    <li>Spiders 🕷️ <img src="suisei_axe.gif" alt="Spiders GIF" style="width: 100px; height: 100px;"/></li>
   </ul>
 
   <h3 style="font-family: 'Georgia', serif; color: #2c3e50; text-align: center;">Games I Love</h3>
